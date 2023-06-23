@@ -1,0 +1,73 @@
+.h
+{
+    font-family: 'Mouse Memoirs', sans-serif;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.b1
+{
+    width: 450px;
+    text-align: center;
+    margin-top: 100px;
+}
+.m1
+{
+    height: 20px;
+}
+.i1
+{
+    margin-top: -70px;
+    
+}
+.q1,.q2
+{
+    width: 150px;
+    padding: 5px;
+}
+.w1
+{
+    width: 740px;
+}
+.c1
+{
+    display: flex;
+}
+
+.f
+{
+    font-size: small;
+}
+.q2{
+    border: none;
+}
+.i2
+{
+    height: 200px;
+    width: 100%;
+}
+.p1
+{
+    margin-top: -20px;
+}
+
+.e1
+{
+   
+    height: 210px;
+    width: 200px;
+
+}
+.h{
+    height: 500px;
+    width: 300px;
+}
+.r1
+{
+    text-align: center;
+}
+@media screen and (max-width:1024px) {
+    .w1
+    {
+        width: 500px;
+    }
+}
